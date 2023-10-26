@@ -1,6 +1,7 @@
 # 💫 About Me:
 Software Engineering Student
 
+[![An image of @jokresner's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jokresner)](https://holopin.io/@jokresner)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/johannes-kresner-b4b871206) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/jokresner) 
