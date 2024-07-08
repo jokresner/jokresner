@@ -30,3 +30,7 @@ I'm currently deployed as an working student at @CHECK24.
 <b>My Holopins</b>
 
 [![An image of @jokresner's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jokresner)](https://holopin.io/@jokresner)
+
+<b>My Roadmap Stats</b>
+
+[![roadmap.sh](https://roadmap.sh/card/wide/668a7f51501413692bbf8876?variant=dark)](https://roadmap.sh)
